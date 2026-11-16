@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T19:15:06",
+  "generated_at": "2026-11-16T20:11:39",
   "total_matches": 1929,
   "no_kickoff_time": 0,
   "snapshots": {
@@ -46,15 +46,15 @@
     "window_h": 2.0,
     "n": 72,
     "ratio": 0.0374,
-    "assessable": 1923,
-    "pending_kickoff": 6,
+    "assessable": 1925,
+    "pending_kickoff": 4,
     "post_kickoff_last": 81,
     "stopped_before_kickoff": 1848
   },
   "near_close_coverage": {
     "window_h": 6.0,
     "n": 369,
-    "ratio": 0.1919
+    "ratio": 0.1917
   },
   "last_collection_day_offset": {
     "0": 753,
