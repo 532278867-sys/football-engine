@@ -1,6 +1,6 @@
 {
   "source": "djyylive.com API v2",
-  "extracted_at": "2026-11-16T20:11:32.308525+00:00",
+  "extracted_at": "2026-11-16T21:02:24.495398+00:00",
   "total": 3,
   "with_odds": 3,
   "matches": [
@@ -75,7 +75,7 @@
       "league": "La Liga 2",
       "league_zh": "西乙",
       "starting_at": "2026-11-17 03:30:00",
-      "status": "上半场 41'",
+      "status": "下半场 71'",
       "home_goals": "1",
       "away_goals": "0",
       "has_odds": true,
